@@ -17,16 +17,16 @@ The link to the dataset is : https://drive.google.com/file/d/1VGD3k4bXlX1Q0FwXL2
 
 Files Description:
 
-File 1: EE541_Project_Primary_CNN_Model.py - This corresponds to the first model we built during the duration of this project. This is a fairly simple model
+File 1: EE541_Project_Primary_CNN_Model.ipynb - This corresponds to the first model we built during the duration of this project. This is a fairly simple model
 with just 2 convolutional layers.
 
-File 2: EE541_Project_Secondary_CNN_Model.py - This corresponds to the second model we built during the duration of this project. This is an improved model
+File 2: EE541_Project_Secondary_CNN_Model.ipynb - This corresponds to the second model we built during the duration of this project. This is an improved model
 when compared to the primary model in terms of performance (accuracy and loss)
 
-File 3: EE541_Project_Final_CNN_Model.py - This corresponds to the final model we built during the duration of this project. This is the best model out of the 3
+File 3: EE541_Project_Final_CNN_Model.ipynb - This corresponds to the final model we built during the duration of this project. This is the best model out of the 3
 models we built. It generalizes better and also a relatively large model with 5 convolutional layers.
 
-File 4: EE541_Project_ResNet_Model.py - This corresponds to the ResNet-18 model we used to compare our model's performances. This is not a pre-trained model but
+File 4: EE541_Project_ResNet_Model.ipynb - This corresponds to the ResNet-18 model we used to compare our model's performances. This is not a pre-trained model but
 just a resnet model (untrained) which is trained on our custom dataset.
 
 
